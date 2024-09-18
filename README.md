@@ -7,8 +7,7 @@ The result looks something like this on desktop:
 <img width="1431" alt="Screenshot 2024-09-18 at 9 31 43 AM" src="https://github.com/user-attachments/assets/2e16b54d-cc68-4715-9604-fe58ffe95ff2">
 
 and, on mobile:  
-<br>
-and, on mobile:  
+<br>  
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img width="200" alt="IMG_0433" src="https://github.com/user-attachments/assets/e4a502fa-7d4d-429a-bbbb-5d7947a253e0">
   <img width="200" alt="IMG_0434" src="https://github.com/user-attachments/assets/a572a3a8-c035-406d-bbf4-bd5ac3d61506">
